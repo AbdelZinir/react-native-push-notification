@@ -1,7 +1,7 @@
 {
-  "name": "react-native-push-notification",
+  "name": "react-native-push-notification-custome",
   "version": "3.1.9",
-  "description": "React Native Local and Remote Notifications",
+  "description": "React Native Local and Remote Notifications with Start intent of my app on receiving the schuddled notification",
   "main": "index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
