@@ -1,7 +1,7 @@
 {
-  "name": "react-native-push-notification-custome",
+  "name": "react-native-push-notification-custom",
   "version": "3.1.9",
-  "description": "React Native Local and Remote Notifications with Start intent of my app on receiving the schuddled notification",
+  "description": "React Native Local and Remote Notifications (add start app on receiving the scheduled notification)",
   "main": "index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,11 +17,11 @@
     "gcm"
   ],
   "bugs": {
-    "url": "https://github.com/zo0r/react-native-push-notification/issues"
+    "url": "https://github.com/zo0r/react-native-push-notification-custom/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:zo0r/react-native-push-notification.git"
+    "url": "git+ssh://git@github.com:zo0r/react-native-push-notification-custom.git"
   },
   "dependencies": {
     "@react-native-community/push-notification-ios": "^1.0.1"

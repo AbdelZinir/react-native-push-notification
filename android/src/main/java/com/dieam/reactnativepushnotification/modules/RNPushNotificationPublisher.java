@@ -21,7 +21,7 @@ public class RNPushNotificationPublisher extends BroadcastReceiver {
         Application applicationContext = (Application) context.getApplicationContext();
 
         PackageManager pm = context.getPackageManager();
-        Intent launchIntent = pm.getLaunchIntentForPackage("com.lematelas");
+        Intent launchIntent = pm.getLaunchIntentForPackage(applicationContext.getPackageName());
         context.startActivity(launchIntent);
 
         new RNPushNotificationHelper(applicationContext)
