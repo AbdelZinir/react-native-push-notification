@@ -1,4 +1,4 @@
-package com.dieam.reactnativepushnotification.modules;
+package com.dieam.reactnativepushnotificationcustom.modules;
 
 import android.app.IntentService;
 import android.content.Intent;
@@ -7,7 +7,7 @@ import android.util.Log;
 import com.google.android.gms.gcm.GoogleCloudMessaging;
 import com.google.android.gms.iid.InstanceID;
 
-import static com.dieam.reactnativepushnotification.modules.RNPushNotification.LOG_TAG;
+import static com.dieam.reactnativepushnotificationcustom.modules.RNPushNotification.LOG_TAG;
 
 public class RNPushNotificationRegistrationService extends IntentService {
 

@@ -1,4 +1,4 @@
-package com.dieam.reactnativepushnotification.modules;
+package com.dieam.reactnativepushnotificationcustom.modules;
 
 import android.app.Application;
 import android.content.BroadcastReceiver;
@@ -7,7 +7,7 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.util.Log;
 
-import static com.dieam.reactnativepushnotification.modules.RNPushNotification.LOG_TAG;
+import static com.dieam.reactnativepushnotificationcustom.modules.RNPushNotification.LOG_TAG;
 
 public class RNPushNotificationPublisher extends BroadcastReceiver {
     final static String NOTIFICATION_ID = "notificationId";

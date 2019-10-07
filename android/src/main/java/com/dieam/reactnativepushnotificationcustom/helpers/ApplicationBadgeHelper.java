@@ -1,4 +1,4 @@
-package com.dieam.reactnativepushnotification.helpers;
+package com.dieam.reactnativepushnotificationcustom.helpers;
 
 import android.content.ComponentName;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package com.dieam.reactnativepushnotification.modules;
+package com.dieam.reactnativepushnotificationcustom.modules;
 
 import android.app.Application;
 import android.content.BroadcastReceiver;
@@ -9,7 +9,7 @@ import android.util.Log;
 
 import java.util.Set;
 
-import static com.dieam.reactnativepushnotification.modules.RNPushNotification.LOG_TAG;
+import static com.dieam.reactnativepushnotificationcustom.modules.RNPushNotification.LOG_TAG;
 
 /**
  * Set alarms for scheduled notification after system reboot.

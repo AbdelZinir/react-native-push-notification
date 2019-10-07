@@ -1,4 +1,4 @@
-package com.dieam.reactnativepushnotification.modules;
+package com.dieam.reactnativepushnotificationcustom.modules;
 
 import android.os.Build;
 import android.os.Bundle;

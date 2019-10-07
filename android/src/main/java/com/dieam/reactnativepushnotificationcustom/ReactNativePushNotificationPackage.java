@@ -1,6 +1,6 @@
-package com.dieam.reactnativepushnotification;
+package com.dieam.reactnativepushnotificationcustom;
 
-import com.dieam.reactnativepushnotification.modules.RNPushNotification;
+import com.dieam.reactnativepushnotificationcustom.modules.RNPushNotification;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
 import com.facebook.react.bridge.NativeModule;

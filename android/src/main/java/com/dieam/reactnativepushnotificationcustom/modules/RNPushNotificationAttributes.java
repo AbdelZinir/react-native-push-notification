@@ -1,4 +1,4 @@
-package com.dieam.reactnativepushnotification.modules;
+package com.dieam.reactnativepushnotificationcustom.modules;
 
 import android.os.Bundle;
 import androidx.annotation.NonNull;
@@ -10,7 +10,7 @@ import com.facebook.react.bridge.ReadableMapKeySetIterator;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import static com.dieam.reactnativepushnotification.modules.RNPushNotification.LOG_TAG;
+import static com.dieam.reactnativepushnotificationcustom.modules.RNPushNotification.LOG_TAG;
 
 public class RNPushNotificationAttributes {
     private static final String ID = "id";

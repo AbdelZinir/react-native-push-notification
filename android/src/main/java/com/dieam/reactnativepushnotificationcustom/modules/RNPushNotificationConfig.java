@@ -1,4 +1,4 @@
-package com.dieam.reactnativepushnotification.modules;
+package com.dieam.reactnativepushnotificationcustom.modules;
 
 import android.content.Context;
 import android.content.pm.ApplicationInfo;
@@ -8,9 +8,9 @@ import android.os.Bundle;
 import android.util.Log;
 
 class RNPushNotificationConfig {
-    private static final String KEY_CHANNEL_NAME = "com.dieam.reactnativepushnotification.notification_channel_name";
-    private static final String KEY_CHANNEL_DESCRIPTION = "com.dieam.reactnativepushnotification.notification_channel_description";
-    private static final String KEY_NOTIFICATION_COLOR = "com.dieam.reactnativepushnotification.notification_color";
+    private static final String KEY_CHANNEL_NAME = "com.dieam.reactnativepushnotificationcustom.notification_channel_name";
+    private static final String KEY_CHANNEL_DESCRIPTION = "com.dieam.reactnativepushnotificationcustom.notification_channel_description";
+    private static final String KEY_NOTIFICATION_COLOR = "com.dieam.reactnativepushnotificationcustom.notification_color";
 
     private static Bundle metadata;
     private Context context;

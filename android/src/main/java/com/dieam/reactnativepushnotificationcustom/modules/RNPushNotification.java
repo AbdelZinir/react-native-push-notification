@@ -1,4 +1,4 @@
-package com.dieam.reactnativepushnotification.modules;
+package com.dieam.reactnativepushnotificationcustom.modules;
 
 import android.app.Activity;
 import android.app.Application;
@@ -10,7 +10,7 @@ import android.content.IntentFilter;
 import android.os.Bundle;
 import android.support.v4.app.NotificationManagerCompat;
 
-import com.dieam.reactnativepushnotification.helpers.ApplicationBadgeHelper;
+import com.dieam.reactnativepushnotificationcustom.helpers.ApplicationBadgeHelper;
 import com.facebook.react.bridge.ActivityEventListener;
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.Promise;

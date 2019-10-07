@@ -1,4 +1,4 @@
-package com.dieam.reactnativepushnotification.modules;
+package com.dieam.reactnativepushnotificationcustom.modules;
 
 
 import android.app.AlarmManager;
@@ -32,8 +32,8 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 
-import static com.dieam.reactnativepushnotification.modules.RNPushNotification.LOG_TAG;
-import static com.dieam.reactnativepushnotification.modules.RNPushNotificationAttributes.fromJson;
+import static com.dieam.reactnativepushnotificationcustom.modules.RNPushNotification.LOG_TAG;
+import static com.dieam.reactnativepushnotificationcustom.modules.RNPushNotificationAttributes.fromJson;
 
 public class RNPushNotificationHelper {
     public static final String PREFERENCES_KEY = "rn_push_notification";
