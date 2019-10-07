@@ -24,18 +24,6 @@ import java.util.List;
 import java.util.Random;
 
 import static com.dieam.reactnativepushnotificationcustom.modules.RNPushNotification.LOG_TAG;
-ification.helpers.ApplicationBadgeHelper;
-import com.facebook.react.ReactApplication;
-import com.facebook.react.ReactInstanceManager;
-import com.facebook.react.bridge.ReactApplicationContext;
-import com.facebook.react.bridge.ReactContext;
-
-import org.json.JSONObject;
-
-import java.util.List;
-import java.util.Random;
-
-import static com.dieam.reactnativepushnotificationcustom.modules.RNPushNotification.LOG_TAG;
 
 public class RNPushNotificationListenerService extends FirebaseMessagingService {
 
